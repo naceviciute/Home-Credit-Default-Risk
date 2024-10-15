@@ -63,12 +63,6 @@ In this section, statistical modeling is performed by:
 - **Threshold Adjustment:** Adjusting the threshold reduced false negatives, increasing recall to 73% but lowering precision.
 - **Feature Importance & SHAP Analysis:** Key features, including external scores and annuity-to-credit ratios, were highlighted through SHAP analysis, demonstrating their importance in model predictions.
 
-## Model Deployment
-
-The top-performing model was deployed to Google Cloud for seamless access and remote use.
-
-**URL**: https://home-credit-675256843318.us-central1.run.app/ 
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
