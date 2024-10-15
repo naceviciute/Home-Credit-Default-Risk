@@ -1,0 +1,12 @@
+lightgbm
+matplotlib
+numpy
+optuna
+pandas
+seaborn
+shap
+category-encoders
+joblib
+scipy
+scikit-learn
+ydata-profiling
